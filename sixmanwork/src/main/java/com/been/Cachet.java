@@ -60,7 +60,7 @@ public class Cachet {
     public String getRemark() {
         return remark;
     }
-
+	//备注
     public void setRemark(String remark) {
         this.remark = remark == null ? null : remark.trim();
     }
